@@ -2,6 +2,7 @@ require 'pathname'
 require 'pg'
 require 'active_record'
 require 'logger'
+require 'zlib'
 
 ## Load all files and configure the db
 
